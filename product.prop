@@ -17,3 +17,6 @@ ro.elixir.group.url=t.me/Elixir_Discussion
 # VulkanAPI
 graphics.gpu.profiler.support=true
 graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.coral.gpuprofiling.vulkanlayer
+
+# Graphics
+debug.cpurend.vsync=false
