@@ -136,7 +136,9 @@ PRODUCT_PACKAGES += \
     NotchBarKiller \
     SettingsProviderOverlaySweet \
     SystemUIOverlaySweet \
-    TelephonyOverlaySweet
+    TelephonyOverlaySweet \
+    TetheringConfigOverlaySweet \
+    WifiOverlaySweet
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
