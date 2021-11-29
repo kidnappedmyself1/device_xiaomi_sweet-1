@@ -13,3 +13,7 @@ ro.elixir.maintainer= X•R•P
 org.elixir.device=Redmi Note 10 Pro Series
 ro.elixir.maintainer.username= itsXRP
 ro.elixir.group.url=t.me/Elixir_Discussion
+
+# VulkanAPI
+graphics.gpu.profiler.support=true
+graphics.gpu.profiler.vulkan_layer_apk=com.google.pixel.coral.gpuprofiling.vulkanlayer
