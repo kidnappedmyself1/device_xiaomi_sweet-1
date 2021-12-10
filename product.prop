@@ -4,7 +4,7 @@
 #ro.secure=0
 #ro.debuggable=1
 ro.control_privapp_permissions=log
+
 #Project Elixir Props
-# Elixir Stuff
-ro.elixir.maintainer=itsXRP
+ro.elixir.maintainer= X•R•P
 org.elixir.device=Redmi Note 10 Pro
