@@ -135,6 +135,8 @@ PRODUCT_PACKAGES += \
     SettingsOverlay \
     NotchBarKiller \
     SettingsProviderOverlaySweet \
+    SettingsProviderSweetinpro \
+    WifiOverlaySweetinpro \
     SystemUIOverlaySweet \
     TelephonyOverlaySweet \
     TetheringConfigOverlaySweet \
