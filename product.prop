@@ -6,5 +6,10 @@
 ro.control_privapp_permissions=log
 
 #Project Elixir Props
+org.elixir.device.name=Redmi Note 10 Pro Series
+ro.elixir.device.name=Redmi Note 10 Pro Series
+ro.elixir.device=sweet
 ro.elixir.maintainer= X•R•P
-org.elixir.device=Redmi Note 10 Pro
+org.elixir.device=Redmi Note 10 Pro Series
+ro.elixir.maintainer.username= itsXRP
+ro.elixir.group.url=t.me/Elixir_Discussion
